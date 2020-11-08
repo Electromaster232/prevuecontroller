@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="genday-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/genday-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

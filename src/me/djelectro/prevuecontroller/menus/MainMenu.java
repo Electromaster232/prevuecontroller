@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class MainMenu extends Menu {
 
     public MainMenu(ArrayList<Menu> menuHistory1) {
-        super(menuHistory1, "Select a category", new HashMap<Integer, String>() {{
+        super(menuHistory1, "Main Menu", "Select a category", new HashMap<Integer, String>() {{
 
             put(1, "Open Test Menu");
             put(2, "Quit");

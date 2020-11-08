@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/PrevueController_jar</output-path>
     <root id="archive" name="PrevueController.jar">
       <element id="module-output" name="PrevueController" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/genday-java.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
