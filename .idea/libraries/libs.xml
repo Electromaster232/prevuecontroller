@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/isoparser-1.9.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/genday-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/websocket-client-9.4.34.v20201102.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/obs-websocket-java-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
